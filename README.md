@@ -134,6 +134,6 @@ Businesses need a system that ensures **accuracy, speed, and consistency** in bi
 **Kv4176521@gmail.com**
 Aspiring Data Analyst
 
-Skills: Excel | SQL | Power BI|Phython
+Skills: Excel | SQL | Power BI|Python
 
 ---
